@@ -1,0 +1,32 @@
+---
+title: "Lak"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Lak}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(Lak)
+```
+
+
+## Hello Welcome 
+
+Welcome to Lak package...
+
+## Example
+
+```{r example}
+library(Lak)
+Adding(7)
+```
+
