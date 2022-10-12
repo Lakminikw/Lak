@@ -6,14 +6,17 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of Lak is to …
+The goal of Lak is to add 10 to a given number :-) 
 
 ## Installation
 
 You can install the development version of Lak like so:
 
-``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+
+
+```{r, install, results = "hide", eval = FALSE}
+# install.packages("remotes")
+remotes::install_github("Lakminikw/Lak")
 ```
 
 ## Example
